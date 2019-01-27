@@ -7,4 +7,5 @@ int main()
 	score.Draw();
 
 	return EXIT_SUCCESS;
+	//Test changes
 };
